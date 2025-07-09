@@ -10,8 +10,9 @@ from homeassistant.helpers.update_coordinator import DataUpdateCoordinator
 from homeassistant.exceptions import ConfigEntryError
 from .const import (
     DOMAIN, CONF_POSTCODE, CONF_DISTANCE, CONF_API_KEY, FUEL_TYPE_NAMES,
-    UPDATE_INTERVAL, API_BASE_URL, PETROLMAP_API_URL, GEOCODE_API_URL,
-    API_TIMEOUT, PRICE_AGE_LIMIT_DAYS
+    UPDATE_INTERVAL, PETROL_PRICES_API_BASE_URL, PETROLMAP_API_URL, GEOCODE_API_URL,
+    API_TIMEOUT, PRICE_AGE_LIMIT_DAYS, DEFAULT_BRAND_TYPE, DEFAULT_RESULT_LIMIT,
+    DEFAULT_OFFSET, DEFAULT_SORT_TYPE
 )
 
 _LOGGER = logging.getLogger(__name__)
@@ -156,7 +157,16 @@ async def async_update_data(hass: HomeAssistant, config_entry):
 
         max_retries = 3
         for fuel_type in fuel_types:
-            url = API_BASE_URL.format(fuel_type=fuel_type) + f"?lat={lat}&lng={lng}&radius={distance}"
+            url = PETROL_PRICES_API_BASE_URL.format(
+                fuel_type=fuel_type,
+                brand_type=DEFAULT_BRAND_TYPE,
+                result_limit=DEFAULT_RESULT_LIMIT,
+                offset=DEFAULT_OFFSET,
+                sort_type=DEFAULT_SORT_TYPE,
+                radius=distance,
+                lat=lat,
+                lng=lng
+            )
             _LOGGER.debug(f"PetrolPrices API URL for fuel type {fuel_type}: {url}")
             for attempt in range(max_retries):
                 try:
