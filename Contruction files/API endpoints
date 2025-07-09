@@ -1,0 +1,312 @@
+Type2 = Unleaded
+
+
+Request URL:
+https://www.petrolprices.com/app/geojson/2/0/0/0/price/10?lat=54.3799173&lng=-6.0180704
+Request Method:
+GET
+Status Code:
+200
+Remote Address:
+104.21.112.1:443
+Referrer Policy:
+strict-origin-when-cross-origin
+Alt-Svc:
+h3=":443"; ma=86400
+Cf-Cache-Status:
+DYNAMIC
+Cf-Ray:
+95c69bf5ed2a7797-LHR
+Content-Encoding:
+gzip
+Content-Type:
+application/json; charset=utf-8
+Date:
+Wed, 09 Jul 2025 08:56:38 GMT
+Etag:
+W/"568a-Gj40bSuhjMaPh9zh53WDwZzNDx0"
+Nel:
+{"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To:
+{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=iNHDLS2B1kW%2FdO3S1S7dVP59dFRYjUQaPAbnzrMdZpm6ESzm73FDYyrhzURmntR%2BkhnciG0GHUmV394dluh0f6RH3e1kLLKrUYdN6RqBgK718cG%2FUPKODW8FBZlrvje5Bickaav8Nw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server:
+cloudflare
+Server-Timing:
+cfL4;desc="?proto=QUIC&rtt=23635&min_rtt=15542&rtt_var=2853&sent=365&recv=170&lost=0&retrans=2&sent_bytes=302252&recv_bytes=72456&delivery_rate=12480765&ss_exit_cwnd=0&ss_exit_reason=0&cwnd=254421&unsent_bytes=0&cid=b5709e60ee0037fa&ts=29025&inflight_dur=1076&x=103"
+Vary:
+accept-encoding
+X-Powered-By:
+Express
+:authority:
+www.petrolprices.com
+:method:
+GET
+:path:
+/app/geojson/2/0/0/0/price/10?lat=54.3799173&lng=-6.0180704
+:scheme:
+https
+Accept:
+*/*
+Accept-Encoding:
+gzip, deflate, br
+Accept-Language:
+en-GB,en-US;q=0.9,en;q=0.8
+Authorization:
+Bearer undefined
+Cache-Control:
+no-cache
+Cookie:
+guestUserID=194.62.184.82, 194.62.184.82; cf_clearance=jiAw8V57tjKO_aV30NCKupUzemW7yla0RSTJ3_lIORk-1752051372-1.2.1.1-vq83MVRAAcNVqoRA4pJly1ag8dQQpUcyrexS7.4L4w_mAWo0_K7vdvhwRvWydFYn8d08reg1T3rxVaspgnmkrmoJpwuDMqjUN30.xDcdA3khGUeiwh08yOp3qCintFrW_YlLDJLA6hWQNgLam4.qUagMy_6LDmgAwyHvXCcIh_ZkPHTKq3DMA4ezYlbGcLiRg3sfRXALnE7E2hNOQRdZ.mu9QTtEtCamSmFbKiv3Gxs
+Pragma:
+no-cache
+Referer:
+https://www.petrolprices.com/app/map?fuelType=2&brandType=0&resultLimit=0&offset=0&sortType=price&lat=54.3799173&lng=-6.0180704&z=10&d=10
+Sec-Ch-Ua:
+"Chromium";v="116", "Not)A;Brand";v="24", "Google Chrome";v="116"
+Sec-Ch-Ua-Mobile:
+?0
+Sec-Ch-Ua-Platform:
+"macOS"
+Sec-Fetch-Dest:
+empty
+Sec-Fetch-Mode:
+cors
+Sec-Fetch-Site:
+same-origin
+User-Agent:
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+
+
+
+Type5 = Diesel
+
+Request URL:
+https://www.petrolprices.com/app/geojson/5/0/0/0/price/10?lat=54.3799173&lng=-6.0180704
+Request Method:
+GET
+Status Code:
+200
+Remote Address:
+104.21.80.1:443
+Referrer Policy:
+strict-origin-when-cross-origin
+Alt-Svc:
+h3=":443"; ma=86400
+Cf-Cache-Status:
+DYNAMIC
+Cf-Ray:
+95c6a972afa71ed8-LHR
+Content-Encoding:
+gzip
+Content-Type:
+application/json; charset=utf-8
+Date:
+Wed, 09 Jul 2025 09:05:50 GMT
+Etag:
+W/"56bd-EwDQU+Ix4f85OB9gGxlqhmXJFxw"
+Nel:
+{"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To:
+{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=wqLD6f8AkSqhv3iSC5xODJcpcistkVmbJz7qwZVu4u%2FXO5G4ALu6yHjPIWuxOaP%2F1PXxGao2TaWPuZhdkEjGPwsNp1kVrE30TTQL7%2Bqg9bpQvFD9tyAfkXGvfIlxBNOHBuHZu9%2FoQQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server:
+cloudflare
+Server-Timing:
+cfL4;desc="?proto=QUIC&rtt=20652&min_rtt=17328&rtt_var=4878&sent=19&recv=13&lost=0&retrans=0&sent_bytes=9817&recv_bytes=4855&delivery_rate=398757&ss_exit_cwnd=0&ss_exit_reason=0&cwnd=17579&unsent_bytes=0&cid=b36d422e27a99c47&ts=321&inflight_dur=109&x=103"
+Vary:
+accept-encoding
+X-Powered-By:
+Express
+:authority:
+www.petrolprices.com
+:method:
+GET
+:path:
+/app/geojson/5/0/0/0/price/10?lat=54.3799173&lng=-6.0180704
+:scheme:
+https
+Accept:
+*/*
+Accept-Encoding:
+gzip, deflate, br
+Accept-Language:
+en-GB,en-US;q=0.9,en;q=0.8
+Authorization:
+Bearer undefined
+Cache-Control:
+no-cache
+Cookie:
+guestUserID=194.62.184.82, 194.62.184.82; cf_clearance=jiAw8V57tjKO_aV30NCKupUzemW7yla0RSTJ3_lIORk-1752051372-1.2.1.1-vq83MVRAAcNVqoRA4pJly1ag8dQQpUcyrexS7.4L4w_mAWo0_K7vdvhwRvWydFYn8d08reg1T3rxVaspgnmkrmoJpwuDMqjUN30.xDcdA3khGUeiwh08yOp3qCintFrW_YlLDJLA6hWQNgLam4.qUagMy_6LDmgAwyHvXCcIh_ZkPHTKq3DMA4ezYlbGcLiRg3sfRXALnE7E2hNOQRdZ.mu9QTtEtCamSmFbKiv3Gxs
+Pragma:
+no-cache
+Referer:
+https://www.petrolprices.com/app/map?fuelType=5&brandType=0&resultLimit=0&offset=0&sortType=price&lat=54.3799173&lng=-6.0180704&z=10&d=10
+Sec-Ch-Ua:
+"Chromium";v="116", "Not)A;Brand";v="24", "Google Chrome";v="116"
+Sec-Ch-Ua-Mobile:
+?0
+Sec-Ch-Ua-Platform:
+"macOS"
+Sec-Fetch-Dest:
+empty
+Sec-Fetch-Mode:
+cors
+Sec-Fetch-Site:
+same-origin
+User-Agent:
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+
+
+Type1 = Super Unleaded
+
+Request URL:
+https://www.petrolprices.com/app/geojson/1/0/0/0/price/10?lat=54.3799173&lng=-6.0180704
+Request Method:
+GET
+Status Code:
+200
+Remote Address:
+104.21.80.1:443
+Referrer Policy:
+strict-origin-when-cross-origin
+Alt-Svc:
+h3=":443"; ma=86400
+Cf-Cache-Status:
+DYNAMIC
+Cf-Ray:
+95c6ab563f1d4866-LHR
+Content-Encoding:
+gzip
+Content-Type:
+application/json; charset=utf-8
+Date:
+Wed, 09 Jul 2025 09:07:08 GMT
+Etag:
+W/"35aa-elFcdZfq6+vTXytShPcV8mPmvWc"
+Nel:
+{"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To:
+{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=lzUXXx0x9NBGxI3hv7PHzYTquJR4vP2WoMLjmJhkc4vAuKlczgrYy88SdHW3N5mRvFLYqnLjDw9DhDPHN5lrEgPW3yJ0zAYoXdXX6dvy9Qi891iqBSdGPqIblZ2Ls2ayyvnKFy%2BaKw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server:
+cloudflare
+Server-Timing:
+cfL4;desc="?proto=QUIC&rtt=19669&min_rtt=18137&rtt_var=2858&sent=19&recv=13&lost=0&retrans=0&sent_bytes=8762&recv_bytes=4855&delivery_rate=1796653&ss_exit_cwnd=0&ss_exit_reason=0&cwnd=17614&unsent_bytes=0&cid=714207244a961d71&ts=261&inflight_dur=78&x=103"
+Vary:
+accept-encoding
+X-Powered-By:
+Express
+:authority:
+www.petrolprices.com
+:method:
+GET
+:path:
+/app/geojson/1/0/0/0/price/10?lat=54.3799173&lng=-6.0180704
+:scheme:
+https
+Accept:
+*/*
+Accept-Encoding:
+gzip, deflate, br
+Accept-Language:
+en-GB,en-US;q=0.9,en;q=0.8
+Authorization:
+Bearer undefined
+Cache-Control:
+no-cache
+Cookie:
+guestUserID=194.62.184.82, 194.62.184.82; cf_clearance=jiAw8V57tjKO_aV30NCKupUzemW7yla0RSTJ3_lIORk-1752051372-1.2.1.1-vq83MVRAAcNVqoRA4pJly1ag8dQQpUcyrexS7.4L4w_mAWo0_K7vdvhwRvWydFYn8d08reg1T3rxVaspgnmkrmoJpwuDMqjUN30.xDcdA3khGUeiwh08yOp3qCintFrW_YlLDJLA6hWQNgLam4.qUagMy_6LDmgAwyHvXCcIh_ZkPHTKq3DMA4ezYlbGcLiRg3sfRXALnE7E2hNOQRdZ.mu9QTtEtCamSmFbKiv3Gxs
+Pragma:
+no-cache
+Referer:
+https://www.petrolprices.com/app/map?fuelType=1&brandType=0&resultLimit=0&offset=0&sortType=price&lat=54.3799173&lng=-6.0180704&z=10&d=10
+Sec-Ch-Ua:
+"Chromium";v="116", "Not)A;Brand";v="24", "Google Chrome";v="116"
+Sec-Ch-Ua-Mobile:
+?0
+Sec-Ch-Ua-Platform:
+"macOS"
+Sec-Fetch-Dest:
+empty
+Sec-Fetch-Mode:
+cors
+Sec-Fetch-Site:
+same-origin
+User-Agent:
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+
+
+Type4 = Premium Diesel
+
+Request URL:
+https://www.petrolprices.com/app/geojson/4/0/0/0/price/10?lat=54.3799173&lng=-6.0180704
+Request Method:
+GET
+Status Code:
+200
+Remote Address:
+104.21.80.1:443
+Referrer Policy:
+strict-origin-when-cross-origin
+Alt-Svc:
+h3=":443"; ma=86400
+Cf-Cache-Status:
+DYNAMIC
+Cf-Ray:
+95c6ac7dbd9fbc8b-LHR
+Content-Encoding:
+gzip
+Content-Type:
+application/json; charset=utf-8
+Date:
+Wed, 09 Jul 2025 09:07:55 GMT
+Etag:
+W/"2871-2hDgB2Oxa6OWYdPxVbbUKOavsaE"
+Nel:
+{"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To:
+{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=TRUdPU55TFAbunxeVYllikXXU%2BjeEfgqWtLuybM78c55mqllMUw54jOYTYng3adsB%2BhJ2iKR2wlE766Cgyh59W2Pj6nESEvZoftwfmfR0HEOF14yAMSWVDgSC8hoxQp9ELO846JZEw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server:
+cloudflare
+Server-Timing:
+cfL4;desc="?proto=QUIC&rtt=30211&min_rtt=18592&rtt_var=12181&sent=14&recv=13&lost=0&retrans=0&sent_bytes=5808&recv_bytes=4853&delivery_rate=284349&ss_exit_cwnd=0&ss_exit_reason=0&cwnd=17588&unsent_bytes=0&cid=49d26c160b97c74e&ts=204&inflight_dur=141&x=103"
+Vary:
+accept-encoding
+X-Powered-By:
+Express
+:authority:
+www.petrolprices.com
+:method:
+GET
+:path:
+/app/geojson/4/0/0/0/price/10?lat=54.3799173&lng=-6.0180704
+:scheme:
+https
+Accept:
+*/*
+Accept-Encoding:
+gzip, deflate, br
+Accept-Language:
+en-GB,en-US;q=0.9,en;q=0.8
+Authorization:
+Bearer undefined
+Cache-Control:
+no-cache
+Cookie:
+guestUserID=194.62.184.82, 194.62.184.82; cf_clearance=jiAw8V57tjKO_aV30NCKupUzemW7yla0RSTJ3_lIORk-1752051372-1.2.1.1-vq83MVRAAcNVqoRA4pJly1ag8dQQpUcyrexS7.4L4w_mAWo0_K7vdvhwRvWydFYn8d08reg1T3rxVaspgnmkrmoJpwuDMqjUN30.xDcdA3khGUeiwh08yOp3qCintFrW_YlLDJLA6hWQNgLam4.qUagMy_6LDmgAwyHvXCcIh_ZkPHTKq3DMA4ezYlbGcLiRg3sfRXALnE7E2hNOQRdZ.mu9QTtEtCamSmFbKiv3Gxs
+Pragma:
+no-cache
+Referer:
+https://www.petrolprices.com/app/map?fuelType=4&brandType=0&resultLimit=0&offset=0&sortType=price&lat=54.3799173&lng=-6.0180704&z=10&d=10
+Sec-Ch-Ua:
+"Chromium";v="116", "Not)A;Brand";v="24", "Google Chrome";v="116"
+Sec-Ch-Ua-Mobile:
+?0
+Sec-Ch-Ua-Platform:
+"macOS"
+Sec-Fetch-Dest:
+empty
+Sec-Fetch-Mode:
+cors
+Sec-Fetch-Site:
+same-origin
+User-Agent:
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
