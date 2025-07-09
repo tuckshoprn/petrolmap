@@ -1,0 +1,1388 @@
+{
+    "error": false,
+    "limitExceed": false,
+    "data": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.01672,
+                        54.377715
+                    ]
+                },
+                "properties": {
+                    "price": 1289,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-06T11:48:00.000Z",
+                    "user_name": "news",
+                    "idstation": 25512,
+                    "fuel_brand": 27,
+                    "fuel_brand_name": "MAXOL",
+                    "name": "MAXOL DROMARA (EUROSPAR DROMARA)",
+                    "address1": "RATHFRILAND ROAD",
+                    "address2": "",
+                    "town": "DROMARA",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT25 2JG",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 0.16,
+                    "reviews": {
+                        "count": 1,
+                        "avg_rating": 4
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -5.89462,
+                        54.406745
+                    ]
+                },
+                "properties": {
+                    "price": 1269,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-07T08:06:00.000Z",
+                    "user_name": "news",
+                    "idstation": 16882,
+                    "fuel_brand": 7,
+                    "fuel_brand_name": "TEXACO",
+                    "name": "TEXACO BELFAST ROAD (BELFAST ROAD SERVICE STATION)",
+                    "address1": "BELFAST ROAD",
+                    "address2": "",
+                    "town": "BALLYNAHINCH",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT24 8EB",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 5.3,
+                    "reviews": {
+                        "count": 1,
+                        "avg_rating": 4
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.143959,
+                        54.416327
+                    ]
+                },
+                "properties": {
+                    "price": 1289,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-04T12:18:00.000Z",
+                    "user_name": "news",
+                    "idstation": 17117,
+                    "fuel_brand": 7,
+                    "fuel_brand_name": "TEXACO",
+                    "name": "TEXACO DROMORE (MOUNDVIEW SERVICE STATION)",
+                    "address1": "HILLSBOROUGH ROAD",
+                    "address2": "",
+                    "town": "DROMORE",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT25 1DE",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 5.65,
+                    "reviews": {
+                        "count": 7,
+                        "avg_rating": 4.5714
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.11433,
+                        54.442558
+                    ]
+                },
+                "properties": {
+                    "price": 1288,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-03T17:41:00.000Z",
+                    "user_name": "news",
+                    "idstation": 17142,
+                    "fuel_brand": 6,
+                    "fuel_brand_name": "APPLEGREEN",
+                    "name": "APPLEGREEN HILLSBOROUGH (APPLEGREEN HILLSBOROUGH)",
+                    "address1": "HILLSBOROUGH ROAD",
+                    "address2": "",
+                    "town": "HILLSBOROUGH",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT26 6JA",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 5.81,
+                    "reviews": {
+                        "count": 4,
+                        "avg_rating": 4.25
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.154803,
+                        54.41304
+                    ]
+                },
+                "properties": {
+                    "price": 1299,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-07T12:49:00.000Z",
+                    "user_name": "news",
+                    "idstation": 17110,
+                    "fuel_brand": 27,
+                    "fuel_brand_name": "MAXOL",
+                    "name": "MAXOL DROMORE (MAXOL DROMORE)",
+                    "address1": "BANBRIDGE ROAD",
+                    "address2": "",
+                    "town": "DROMORE",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT25 1NB",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 5.96,
+                    "reviews": {
+                        "count": 6,
+                        "avg_rating": 3.6667
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -5.906335,
+                        54.47416
+                    ]
+                },
+                "properties": {
+                    "price": 1339,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-05T12:47:00.000Z",
+                    "user_name": "news",
+                    "idstation": 14913,
+                    "fuel_brand": 124,
+                    "fuel_brand_name": "UNBRANDED",
+                    "name": "UNBRANDED CARRYDUFF ROAD (TEMPLE FILLING STATION)",
+                    "address1": "CARRYDUFF ROAD",
+                    "address2": "BOARDMILLS",
+                    "town": "LISBURN",
+                    "county": "COUNTY ANTRIM",
+                    "postcode": "BT27 6UA",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 7.91,
+                    "reviews": {
+                        "count": 4,
+                        "avg_rating": 4.25
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.06461,
+                        54.4929
+                    ]
+                },
+                "properties": {
+                    "price": 1259,
+                    "fuel_type": 2,
+                    "user_id": 3525656,
+                    "recorded_time": "2025-07-08T01:00:16.000Z",
+                    "user_name": "Site Owner",
+                    "idstation": 25327,
+                    "fuel_brand": 11,
+                    "fuel_brand_name": "SAINSBURYS",
+                    "name": "SAINSBURYS SPRUCEFIELD",
+                    "address1": "HILLSBOROUGH ROAD",
+                    "address2": "",
+                    "town": "LISBURN",
+                    "county": "COUNTY ANTRIM",
+                    "postcode": "BT27 5UJ",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 8.03,
+                    "reviews": {
+                        "count": 11,
+                        "avg_rating": 3.6364
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.04802,
+                        54.5038
+                    ]
+                },
+                "properties": {
+                    "price": 1289,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-03T20:03:00.000Z",
+                    "user_name": "news",
+                    "idstation": 3557,
+                    "fuel_brand": 1,
+                    "fuel_brand_name": "BP",
+                    "name": "BP HILLSBOROUGH ROAD (SPAR LAGAN VALLEY)",
+                    "address1": "HILLSBOROUGH ROAD",
+                    "address2": "",
+                    "town": "LISBURN",
+                    "county": "COUNTY ANTRIM",
+                    "postcode": "BT28 1JN",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 8.64,
+                    "reviews": {
+                        "count": 3,
+                        "avg_rating": 5
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.032998,
+                        54.508908
+                    ]
+                },
+                "properties": {
+                    "price": 1299,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-04T15:43:00.000Z",
+                    "user_name": "news",
+                    "idstation": 7420,
+                    "fuel_brand": 7,
+                    "fuel_brand_name": "TEXACO",
+                    "name": "TEXACO MERCER STREET (EUROSPAR SAINTFIELD ROAD)",
+                    "address1": "MERCER STREET",
+                    "address2": "",
+                    "town": "LISBURN",
+                    "county": "COUNTY ANTRIM",
+                    "postcode": "BT27 5AJ",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 8.93,
+                    "reviews": {
+                        "count": 4,
+                        "avg_rating": 4.5
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.20081,
+                        54.3064
+                    ]
+                },
+                "properties": {
+                    "price": 1299,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-06T09:12:00.000Z",
+                    "user_name": "news",
+                    "idstation": 17975,
+                    "fuel_brand": 41,
+                    "fuel_brand_name": "EMO",
+                    "name": "EMO BANBRIDGE (LISLIGGAN STORES)",
+                    "address1": "MONTEITH ROAD",
+                    "address2": "ANNACLONE",
+                    "town": "BANBRIDGE",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT32 5AT",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 8.94,
+                    "reviews": {
+                        "count": 8,
+                        "avg_rating": 5
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -5.950293,
+                        54.255388
+                    ]
+                },
+                "properties": {
+                    "price": 1299,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-02T06:46:00.000Z",
+                    "user_name": "news",
+                    "idstation": 17269,
+                    "fuel_brand": 27,
+                    "fuel_brand_name": "MAXOL",
+                    "name": "MAXOL CASTLEWELLAN (FOREST PARK SERVICE STATION)",
+                    "address1": "DUBLIN ROAD",
+                    "address2": "",
+                    "town": "CASTLEWELLAN",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT31 9AQ",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 9.03,
+                    "reviews": {
+                        "count": 4,
+                        "avg_rating": 2.25
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -5.830758,
+                        54.45986
+                    ]
+                },
+                "properties": {
+                    "price": 1289,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-04T10:34:00.000Z",
+                    "user_name": "news",
+                    "idstation": 17021,
+                    "fuel_brand": 27,
+                    "fuel_brand_name": "MAXOL",
+                    "name": "MAXOL BALLYNAHINCH (SAINTFIELD SERVICE STATION)",
+                    "address1": "CROSSGAR ROAD",
+                    "address2": "SAINTFIELD",
+                    "town": "BALLYNAHINCH",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT24 7AS",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 9.34,
+                    "reviews": {
+                        "count": 4,
+                        "avg_rating": 4.25
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.05699,
+                        54.5143
+                    ]
+                },
+                "properties": {
+                    "price": 1249,
+                    "fuel_type": 2,
+                    "user_id": 3525656,
+                    "recorded_time": "2025-07-08T10:18:20.000Z",
+                    "user_name": "Site Owner",
+                    "idstation": 17910,
+                    "fuel_brand": 5,
+                    "fuel_brand_name": "TESCO",
+                    "name": "TESCO LISBURN BENTRIM ROAD",
+                    "address1": "BENTRIM ROAD",
+                    "address2": "",
+                    "town": "LISBURN",
+                    "county": "COUNTY ANTRIM",
+                    "postcode": "BT28 2GB",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 9.42,
+                    "reviews": {
+                        "count": 20,
+                        "avg_rating": 3.15
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -5.837971,
+                        54.292608
+                    ]
+                },
+                "properties": {
+                    "price": 1389,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-05T08:41:00.000Z",
+                    "user_name": "news",
+                    "idstation": 16864,
+                    "fuel_brand": 27,
+                    "fuel_brand_name": "MAXOL",
+                    "name": "MAXOL MAIN STREET (EUROSPAR CLOUGH)",
+                    "address1": "MAIN STREET",
+                    "address2": "CLOUGH",
+                    "town": "DOWNPATRICK",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT30 8RA",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 9.44,
+                    "reviews": {
+                        "count": 6,
+                        "avg_rating": 3.1667
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.247208,
+                        54.343668
+                    ]
+                },
+                "properties": {
+                    "price": 1289,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-03T07:48:00.000Z",
+                    "user_name": "news",
+                    "idstation": 16842,
+                    "fuel_brand": 7,
+                    "fuel_brand_name": "TEXACO",
+                    "name": "TEXACO CASTLEWELLAN ROAD (BALLYDOWN FILLING STATION)",
+                    "address1": "CASTLEWELLAN ROAD",
+                    "address2": "",
+                    "town": "BANBRIDGE",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT32 4JP",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 9.56,
+                    "reviews": {
+                        "count": 6,
+                        "avg_rating": 4
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.032215,
+                        54.51942
+                    ]
+                },
+                "properties": {
+                    "price": 1259,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-07T14:02:00.000Z",
+                    "user_name": "news",
+                    "idstation": 10319,
+                    "fuel_brand": 27,
+                    "fuel_brand_name": "MAXOL",
+                    "name": "MAXOL LISBURN (HILDEN SERVICE STATION)",
+                    "address1": "BELFAST ROAD",
+                    "address2": "",
+                    "town": "LISBURN",
+                    "county": "COUNTY ANTRIM",
+                    "postcode": "BT27 4AT",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 9.66,
+                    "reviews": {
+                        "count": 9,
+                        "avg_rating": 3.6667
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.258255,
+                        54.35442
+                    ]
+                },
+                "properties": {
+                    "price": 1289,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-07T18:19:00.000Z",
+                    "user_name": "news",
+                    "idstation": 14911,
+                    "fuel_brand": 1,
+                    "fuel_brand_name": "BP",
+                    "name": "BP BANBRIDGE (SPAR BANBRIDGE)",
+                    "address1": "DROMORE ROAD",
+                    "address2": "",
+                    "town": "BANBRIDGE",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT32 4EB",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 9.83,
+                    "reviews": {
+                        "count": 6,
+                        "avg_rating": 4.6667
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.059832,
+                        54.521523
+                    ]
+                },
+                "properties": {
+                    "price": 1299,
+                    "fuel_type": 2,
+                    "user_id": 1,
+                    "recorded_time": "2025-07-04T07:44:00.000Z",
+                    "user_name": "news",
+                    "idstation": 14882,
+                    "fuel_brand": 7,
+                    "fuel_brand_name": "TEXACO",
+                    "name": "TEXACO POND PARK ROAD (CIRCLE K EXPRESS LISBURN POND PARK ROAD)",
+                    "address1": "POND PARK ROAD",
+                    "address2": "",
+                    "town": "LISBURN",
+                    "county": "COUNTY ANTRIM",
+                    "postcode": "BT28 3LH",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 9.93,
+                    "reviews": {
+                        "count": 6,
+                        "avg_rating": 4.1667
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.071518,
+                        54.381012
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 17099,
+                    "fuel_brand": 42,
+                    "fuel_brand_name": "SOLO",
+                    "name": "SOLO DROMORE (BIGGERSTAFF OF KINALLEN)",
+                    "address1": "BANBRIDGE ROAD",
+                    "address2": "KINALLEN",
+                    "town": "DROMORE",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT25 2NF",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 2.15,
+                    "reviews": {
+                        "count": 0,
+                        "avg_rating": null
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.041213,
+                        54.349488
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 25807,
+                    "fuel_brand": 124,
+                    "fuel_brand_name": "UNBRANDED",
+                    "name": "UNBRANDED DROMARA (O MARE TYRE SERVICE)",
+                    "address1": "RATHFRILAND ROAD",
+                    "address2": "",
+                    "town": "DROMARA",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT25 2EQ",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 2.3,
+                    "reviews": {
+                        "count": 0,
+                        "avg_rating": null
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -5.894478,
+                        54.406438
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 16886,
+                    "fuel_brand": 51,
+                    "fuel_brand_name": "GO",
+                    "name": "GO BALLYNAHINCH (GO PAY @ PUMP BELFAST ROAD AUTOMAT)",
+                    "address1": "BELFAST ROAD",
+                    "address2": "",
+                    "town": "BALLYNAHINCH",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT24 8DZ",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 5.3,
+                    "reviews": {
+                        "count": 9,
+                        "avg_rating": 4.3333
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -5.895003,
+                        54.411778
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 3552,
+                    "fuel_brand": 40,
+                    "fuel_brand_name": "CARLISLES",
+                    "name": "CARLISLES BALLYNAHINCH (CARLISLES FRESH FOODS)",
+                    "address1": "BELFAST ROAD",
+                    "address2": "",
+                    "town": "BALLYNAHINCH",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT24 8FF",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 5.42,
+                    "reviews": {
+                        "count": 1,
+                        "avg_rating": 5
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -5.882972,
+                        54.404135
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 17277,
+                    "fuel_brand": 7,
+                    "fuel_brand_name": "TEXACO",
+                    "name": "TEXACO CROSSGAR ROAD (DONARD VIEW SERVICE STATION)",
+                    "address1": "CROSSGAR ROAD",
+                    "address2": "",
+                    "town": "BALLYNAHINCH",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT24 8XS",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 5.69,
+                    "reviews": {
+                        "count": 5,
+                        "avg_rating": 5
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -5.85385,
+                        54.369443
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 17432,
+                    "fuel_brand": 125,
+                    "fuel_brand_name": "CIRCLE K",
+                    "name": "CIRCLE K BALLYNAHINCH (CIRCLE K EXPRESS DRUMANESS)",
+                    "address1": "DRUMANESS ROAD",
+                    "address2": "DRUMANESS",
+                    "town": "BALLYNAHINCH",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT24 8RL",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 6.65,
+                    "reviews": {
+                        "count": 0,
+                        "avg_rating": null
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.15603,
+                        54.3168
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 4860,
+                    "fuel_brand": 124,
+                    "fuel_brand_name": "UNBRANDED",
+                    "name": "UNBRANDED KATESBRIDGE ROAD (MOURNEVIEW SERVICE STATION)",
+                    "address1": "KATESBRIDGE ROAD",
+                    "address2": "KATESBRIDGE",
+                    "town": "BANBRIDGE",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT32 5PZ",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 7.06,
+                    "reviews": {
+                        "count": 2,
+                        "avg_rating": 5
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -5.835047,
+                        54.333283
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 16870,
+                    "fuel_brand": 41,
+                    "fuel_brand_name": "EMO",
+                    "name": "EMO DOWNPATRICK (BRENNANS SEAFORDE)",
+                    "address1": "NEWCASTLE ROAD",
+                    "address2": "SEAFORDE",
+                    "town": "DOWNPATRICK",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT30 8PL",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 8.04,
+                    "reviews": {
+                        "count": 0,
+                        "avg_rating": null
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.217432,
+                        54.369107
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 25871,
+                    "fuel_brand": 51,
+                    "fuel_brand_name": "GO",
+                    "name": "GO HALFWAY ROAD (BANBRIDGE TULLYHINNIAN)",
+                    "address1": "HALFWAY ROAD",
+                    "address2": "",
+                    "town": "BANBRIDGE",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT32 4ET",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 8.06,
+                    "reviews": {
+                        "count": 13,
+                        "avg_rating": 4.9231
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.057913,
+                        54.503739
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 25013,
+                    "fuel_brand": 124,
+                    "fuel_brand_name": "UNBRANDED",
+                    "name": "UNBRANDED WARREN GARDENS (EURO OIL FUELS COSTCUTTER)",
+                    "address1": "WARREN GARDENS",
+                    "address2": "",
+                    "town": "LISBURN",
+                    "county": "COUNTY ANTRIM",
+                    "postcode": "BT28 1HW",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 8.7,
+                    "reviews": {
+                        "count": 1,
+                        "avg_rating": 3
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.03069,
+                        54.509785
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 17182,
+                    "fuel_brand": 124,
+                    "fuel_brand_name": "UNBRANDED",
+                    "name": "UNBRANDED HILLHALL ROAD (LAGAN OILS SERVICE STATION)",
+                    "address1": "HILLHALL ROAD",
+                    "address2": "",
+                    "town": "LISBURN",
+                    "county": "COUNTY ANTRIM",
+                    "postcode": "BT27 5BU",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 8.99,
+                    "reviews": {
+                        "count": 11,
+                        "avg_rating": 4.4545
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -5.94403,
+                        54.256278
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 17263,
+                    "fuel_brand": 42,
+                    "fuel_brand_name": "SOLO",
+                    "name": "SOLO CASTLEWELLAN (LENNONS SPAR)",
+                    "address1": "NEWCASTLE ROAD",
+                    "address2": "",
+                    "town": "CASTLEWELLAN",
+                    "county": "COUNTY DOWN",
+                    "postcode": "BT31 9DP",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 9.05,
+                    "reviews": {
+                        "count": 0,
+                        "avg_rating": null
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.154155,
+                        54.498311
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 3581,
+                    "fuel_brand": 125,
+                    "fuel_brand_name": "CIRCLE K",
+                    "name": "CIRCLE K LISBURN ROAD (CIRCLE K EXPRESS MOIRA)",
+                    "address1": "LISBURN ROAD",
+                    "address2": "MOIRA",
+                    "town": "CRAIGAVON",
+                    "county": "COUNTY ARMAGH",
+                    "postcode": "BT67 0JS",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 9.84,
+                    "reviews": {
+                        "count": 2,
+                        "avg_rating": 1
+                    }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -6.077778,
+                        54.518366
+                    ]
+                },
+                "properties": {
+                    "price": 0,
+                    "fuel_type": 2,
+                    "user_id": null,
+                    "recorded_time": null,
+                    "user_name": null,
+                    "idstation": 25998,
+                    "fuel_brand": 125,
+                    "fuel_brand_name": "CIRCLE K",
+                    "name": "CIRCLE K KNOCKMORE ROAD (SUPERVALU LISBURN)",
+                    "address1": "KNOCKMORE ROAD",
+                    "address2": "",
+                    "town": "LISBURN",
+                    "county": "COUNTY ANTRIM",
+                    "postcode": "BT28 7TU",
+                    "google": null,
+                    "phone": null,
+                    "open_hours": null,
+                    "Monday": null,
+                    "Tuesday": null,
+                    "Wednesday": null,
+                    "Thursday": null,
+                    "Friday": null,
+                    "Saturday": null,
+                    "Sunday": null,
+                    "country_code": "GB",
+                    "currency_symbol": "p",
+                    "distance_in_miles_from_given_coords": 9.86,
+                    "reviews": {
+                        "count": 2,
+                        "avg_rating": 4
+                    }
+                }
+            }
+        ]
+    },
+    "search_id": 11368786,
+    "message": "Petrol Station Fuel List Listed by Coordinates",
+    "guestUserID": "194.62.184.82, 194.62.184.82"
+}

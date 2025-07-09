@@ -1,0 +1,34 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Set up PetrolMap",
+                "description": "Enter your postcode, search radius, and optional API key to fetch fuel prices from PetrolPrices.com.",
+                "data": {
+                    "postcode": "Postcode",
+                    "distance": "Search Radius (miles)",
+                    "api_key": "API Key (optional)"
+                }
+            }
+        },
+        "error": {
+            "invalid_postcode": "Please enter a valid UK postcode."
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "title": "PetrolMap Options",
+                "description": "Modify your PetrolMap configuration.",
+                "data": {
+                    "postcode": "Postcode",
+                    "distance": "Search Radius (miles)",
+                    "api_key": "API Key (optional)"
+                }
+            }
+        },
+        "error": {
+            "invalid_postcode": "Please enter a valid UK postcode."
+        }
+    }
+}

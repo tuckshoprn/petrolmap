@@ -1,0 +1,62 @@
+2025-07-08 21:24:54.557 DEBUG (MainThread) [custom_components.petrolmap] Setting up config entry: {'postcode': 'BT252AQ', 'distance': 10, 'api_key': ''}
+2025-07-08 21:24:54.557 DEBUG (MainThread) [custom_components.petrolmap] Starting async_update_data for config entry: {'postcode': 'BT252AQ', 'distance': 10, 'api_key': ''}
+2025-07-08 21:24:54.558 DEBUG (MainThread) [custom_components.petrolmap] Attempting Nominatim geocoding for postcode BT252AQ
+2025-07-08 21:24:54.809 WARNING (MainThread) [custom_components.petrolmap] No coordinates found for postcode BT252AQ in Nominatim
+2025-07-08 21:24:54.810 DEBUG (MainThread) [custom_components.petrolmap] Falling back to FreeMapTools for postcode BT252AQ
+2025-07-08 21:24:56.201 DEBUG (MainThread) [custom_components.petrolmap] FreeMapTools geocoded BT252AQ to lat: 54.39703, lng: -5.99795
+2025-07-08 21:24:56.580 DEBUG (MainThread) [custom_components.petrolmap] Scraped Cloudflare cookies: {}
+2025-07-08 21:24:56.590 DEBUG (MainThread) [custom_components.petrolmap] PetrolPrices API URL for fuel type 1: https://api.petrolprices.com/v1/fuel-prices/type1.json?lat=54.39703&lng=-5.99795&radius=10
+2025-07-08 21:24:56.594 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 1, retrying after 1s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:24:57.599 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 1, retrying after 2s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:24:59.605 WARNING (MainThread) [custom_components.petrolmap] API client error for fuel type 1, skipping: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:24:59.606 DEBUG (MainThread) [custom_components.petrolmap] PetrolPrices API URL for fuel type 2: https://api.petrolprices.com/v1/fuel-prices/type2.json?lat=54.39703&lng=-5.99795&radius=10
+2025-07-08 21:24:59.612 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 2, retrying after 1s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:00.617 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 2, retrying after 2s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:02.622 WARNING (MainThread) [custom_components.petrolmap] API client error for fuel type 2, skipping: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:02.623 DEBUG (MainThread) [custom_components.petrolmap] PetrolPrices API URL for fuel type 4: https://api.petrolprices.com/v1/fuel-prices/type4.json?lat=54.39703&lng=-5.99795&radius=10
+2025-07-08 21:25:02.629 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 4, retrying after 1s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:03.635 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 4, retrying after 2s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:05.641 WARNING (MainThread) [custom_components.petrolmap] API client error for fuel type 4, skipping: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:05.642 DEBUG (MainThread) [custom_components.petrolmap] PetrolPrices API URL for fuel type 5: https://api.petrolprices.com/v1/fuel-prices/type5.json?lat=54.39703&lng=-5.99795&radius=10
+2025-07-08 21:25:05.647 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 5, retrying after 1s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:06.672 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 5, retrying after 2s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:08.678 WARNING (MainThread) [custom_components.petrolmap] API client error for fuel type 5, skipping: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:08.678 DEBUG (MainThread) [custom_components.petrolmap] Fetching PetrolMap for 0 new stations
+2025-07-08 21:25:09.331 WARNING (MainThread) [custom_components.petrolmap] No valid stations with prices found, returning cached data
+2025-07-08 21:25:09.342 DEBUG (MainThread) [custom_components.petrolmap] Finished fetching petrolmap data in 14.785 seconds (success: True)
+2025-07-08 21:25:09.343 DEBUG (MainThread) [custom_components.petrolmap] Set hass.data[petrolmap][01JZNVCZ0WM1PNVEB5AK2VHHVC] with coordinator
+2025-07-08 21:25:09.343 INFO (MainThread) [homeassistant.components.sensor] Setting up petrolmap.sensor
+2025-07-08 21:25:09.344 DEBUG (MainThread) [custom_components.petrolmap.sensor] Setting up sensor for config entry: {'postcode': 'BT252AQ', 'distance': 10, 'api_key': ''}
+2025-07-08 21:25:09.344 DEBUG (MainThread) [custom_components.petrolmap.sensor] Coordinator data: {}
+2025-07-08 21:25:09.344 WARNING (MainThread) [custom_components.petrolmap.sensor] No valid station data available, skipping sensor creation
+2025-07-08 21:25:26.302 DEBUG (MainThread) [custom_components.petrolmap] Setting up config entry: {'postcode': 'BT252AQ', 'distance': 10, 'api_key': ''}
+2025-07-08 21:25:26.303 DEBUG (MainThread) [custom_components.petrolmap] Starting async_update_data for config entry: {'postcode': 'BT252AQ', 'distance': 10, 'api_key': ''}
+2025-07-08 21:25:26.303 DEBUG (MainThread) [custom_components.petrolmap] Attempting Nominatim geocoding for postcode BT252AQ
+2025-07-08 21:25:26.544 WARNING (MainThread) [custom_components.petrolmap] No coordinates found for postcode BT252AQ in Nominatim
+2025-07-08 21:25:26.545 DEBUG (MainThread) [custom_components.petrolmap] Falling back to FreeMapTools for postcode BT252AQ
+2025-07-08 21:25:27.890 DEBUG (MainThread) [custom_components.petrolmap] FreeMapTools geocoded BT252AQ to lat: 54.39703, lng: -5.99795
+2025-07-08 21:25:28.007 DEBUG (MainThread) [custom_components.petrolmap] Scraped Cloudflare cookies: {}
+2025-07-08 21:25:28.020 DEBUG (MainThread) [custom_components.petrolmap] PetrolPrices API URL for fuel type 1: https://api.petrolprices.com/v1/fuel-prices/type1.json?lat=54.39703&lng=-5.99795&radius=10
+2025-07-08 21:25:28.025 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 1, retrying after 1s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:29.030 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 1, retrying after 2s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:31.075 WARNING (MainThread) [custom_components.petrolmap] API client error for fuel type 1, skipping: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:31.075 DEBUG (MainThread) [custom_components.petrolmap] PetrolPrices API URL for fuel type 2: https://api.petrolprices.com/v1/fuel-prices/type2.json?lat=54.39703&lng=-5.99795&radius=10
+2025-07-08 21:25:31.085 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 2, retrying after 1s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:32.090 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 2, retrying after 2s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:34.097 WARNING (MainThread) [custom_components.petrolmap] API client error for fuel type 2, skipping: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:34.098 DEBUG (MainThread) [custom_components.petrolmap] PetrolPrices API URL for fuel type 4: https://api.petrolprices.com/v1/fuel-prices/type4.json?lat=54.39703&lng=-5.99795&radius=10
+2025-07-08 21:25:34.104 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 4, retrying after 1s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:35.109 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 4, retrying after 2s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:37.116 WARNING (MainThread) [custom_components.petrolmap] API client error for fuel type 4, skipping: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:37.116 DEBUG (MainThread) [custom_components.petrolmap] PetrolPrices API URL for fuel type 5: https://api.petrolprices.com/v1/fuel-prices/type5.json?lat=54.39703&lng=-5.99795&radius=10
+2025-07-08 21:25:37.123 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 5, retrying after 1s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:38.166 WARNING (MainThread) [custom_components.petrolmap] Client error for fuel type 5, retrying after 2s: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:40.172 WARNING (MainThread) [custom_components.petrolmap] API client error for fuel type 5, skipping: Cannot connect to host api.petrolprices.com:443 ssl:default [Domain name not found]
+2025-07-08 21:25:40.173 DEBUG (MainThread) [custom_components.petrolmap] Fetching PetrolMap for 0 new stations
+2025-07-08 21:25:40.877 WARNING (MainThread) [custom_components.petrolmap] No valid stations with prices found, returning cached data
+2025-07-08 21:25:40.881 DEBUG (MainThread) [custom_components.petrolmap] Finished fetching petrolmap data in 14.578 seconds (success: True)
+2025-07-08 21:25:40.881 DEBUG (MainThread) [custom_components.petrolmap] Set hass.data[petrolmap][01JZNVDY0XGCYBZSCJTS75FCP1] with coordinator
+2025-07-08 21:25:40.882 INFO (MainThread) [homeassistant.components.sensor] Setting up petrolmap.sensor
+2025-07-08 21:25:40.883 DEBUG (MainThread) [custom_components.petrolmap.sensor] Setting up sensor for config entry: {'postcode': 'BT252AQ', 'distance': 10, 'api_key': ''}
+2025-07-08 21:25:40.883 DEBUG (MainThread) [custom_components.petrolmap.sensor] Coordinator data: {}
+2025-07-08 21:25:40.883 WARNING (MainThread) [custom_components.petrolmap.sensor] No valid station data available, skipping sensor creation
